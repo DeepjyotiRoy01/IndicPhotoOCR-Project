@@ -1,4 +1,4 @@
-IndicPhotoOCR Dataset & Evaluation Contribution
+## IndicPhotoOCR Dataset & Evaluation Contribution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
