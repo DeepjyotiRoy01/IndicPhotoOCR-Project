@@ -111,10 +111,13 @@ https://github.com/Bhashini-IITJ/IndicPhotoOCR
 For the successful completion of my project, I would like to thank 
 
 Prof. Anand Mishra Sir
+
 Professor CSE Dept.
+
 Indian Institute of Technology, Jodhpur.
 
 Anek De Sir
+
 Indian Institute of Technology, Jodhpur.
 
 ### 📩 For queries or collaboration, feel free to reach out.
