@@ -1,4 +1,4 @@
-## IndicPhotoOCR Dataset & Evaluation Contribution
+# IndicPhotoOCR Dataset & Evaluation Contribution
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -41,21 +41,21 @@ IndicPhotoOCR/
 To run the scripts and evaluate on your machine:
 
 
-# Clone the repository
+## Clone the repository
 ```bash
 git clone https://github.com/DeepjyotiRoy01/IndicPhotoOCR.git
 cd IndicPhotoOCR
 ```
-# Create and activate virtual environment
+## Create and activate a virtual environment
 ```bash
 conda create -n indicphotoocr python=3.10 -y
 conda activate indicphotoocr
 ```
-# Install dependencies
+## Install dependencies
 ```bash
 pip install -r requirements.txt
 ```
-# 🖼️ Usage
+## 🖼️ Usage
 ➤ Run OCR on a single image
 ```bash
 python Scripts/Single_ImageOCR.py
@@ -83,16 +83,16 @@ JSON (example):
   "script": "Bengali"
 }
 ```
-# CSV (example):
+## CSV (example):
 | image       | text     | bbox                         | language  |
 |-------------|----------|------------------------------|-----------|
 |IMG_41.jpg   |	ইলেকট্রিক |	[[1044, 609],,,[1044, 903]]	| Bengali   |
 
-# 📜 License
+### 📜 License
 This project is licensed under the MIT License.
 You may use, modify, or distribute this dataset and code for research, benchmarking, and educational purposes.
 
-# 🙌 Contribution to Main IndicPhotoOCR
+## 🙌 Contribution to Main IndicPhotoOCR
 This dataset and evaluation result set was created to enhance the IndicPhotoOCR benchmark.
 
 To contribute:
@@ -103,4 +103,18 @@ Commit your changes to your fork
 
 Open a Pull Request (PR) describing your additions (dataset, annotations, outputs, scripts)
 
-# 📩 For queries or collaboration, feel free to reach out.
+Can access the main project from the following link : 
+```
+https://github.com/Bhashini-IITJ/IndicPhotoOCR
+```
+## Credits 
+For the successful completion of my project, I would like to thank 
+
+Prof. Anand Mishra Sir
+Professor CSE Dept.
+Indian Institute of Technology, Jodhpur.
+
+Anek De Sir
+Indian Institute of Technology, Jodhpur.
+
+### 📩 For queries or collaboration, feel free to reach out.
