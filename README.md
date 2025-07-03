@@ -116,7 +116,7 @@ Professor CSE Dept.
 
 Indian Institute of Technology, Jodhpur.
 
-Anek De Sir
+Anik De Sir
 
 Indian Institute of Technology, Jodhpur.
 
