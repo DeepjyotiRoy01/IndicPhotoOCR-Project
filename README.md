@@ -110,11 +110,15 @@ https://github.com/Bhashini-IITJ/IndicPhotoOCR
 ## Credits 
 For the successful completion of my project, I would like to thank 
 
+Internship Guide:
+
 Prof. Anand Mishra Sir
 
 Professor CSE Dept.
 
 Indian Institute of Technology, Jodhpur.
+
+Internship Advisor:
 
 Anik De Sir
 
